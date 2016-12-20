@@ -15,7 +15,4 @@ numeric
 \description{
 This contrived function computes the hypotenuse of an 'rtriangle' class object
 }
-\examples{
-x <- rtriangle(3,4); hypotenuse(x)
-}
 

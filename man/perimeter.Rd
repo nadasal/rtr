@@ -15,7 +15,4 @@ numeric
 \description{
 This contrived function computes the perimeter of an 'rtriangle' class object
 }
-\examples{
-x <- rtriangle(3,4); perimeter(x)
-}
 

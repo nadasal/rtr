@@ -26,8 +26,6 @@ rtriangle <- function(base, height){
 #'
 #' @return numeric
 #' @export
-#'
-#' @examples x <- rtriangle(3,4); hypotenuse(x)
 
 hypotenuse <- function(x){
 	UseMethod("hypotenuse")
@@ -52,8 +50,6 @@ hypotenuse.rtriangle <- function(x)
 #'
 #' @return numeric
 #' @export
-#'
-#' @examples x <- rtriangle(3,4); perimeter(x)
 
 perimeter <- function(x){
 	UseMethod("perimeter")
@@ -79,8 +75,6 @@ perimeter.rtriangle <- function(x){
 #'
 #' @return numeric
 #' @export
-#'
-#' @examples x <- rtriangle(3,4); area(x)
 
 area <- function(x){
 	UseMethod("area")

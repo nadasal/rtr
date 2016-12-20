@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/nadasal/sdnada.svg?branch=master)](https://travis-ci.org/nadasal/sdnada)
+[![Build Status](https://travis-ci.org/nadasal/rtriangle.svg?branch=master)](https://travis-ci.org/nadasal/rtriangle)
 
 **NOTE: This is a toy package created for MDS 524 for lab purposes. It is not meant to be terribly useful in its current form.**
 
